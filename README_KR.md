@@ -1,6 +1,6 @@
 # ML Website Fingerprint Fine-Tuning
 
-**구글 코랩 환경**에서 실행하는 것을 권장합니다.
+구글 코랩 환경에서 실행하는 것을 권장합니다.
 
 #### 권장 구글 코랩 환경
 
@@ -13,7 +13,7 @@
 #### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다.
-  ![First Image](readme/img/Group 3.jpg)
+  ![First Image](./readme/img/Group 3.jpg)
 
 
 #### 2. GitHub에서 노트북 불러오기
@@ -31,7 +31,7 @@
 - **open-world/binary/Random Forest.ipynb**
 - **open-world/multiclass/Random Forest.ipynb**
 
-![open](readme/img/Group 7.jpg)
+![open](./readme/img/Group 7.jpg)
 
 <br><br>
 ## 노트북 실행 전 준비 사항
