@@ -30,7 +30,8 @@
 - **open-world/binary/Random Forest.ipynb**
 - **open-world/multiclass/Random Forest.ipynb**
 
- <img src="ML_website-fingerprint/readme/img/Group 7.jpg" alt="필요한 노트북 파일 열기" width="500" />
+![open](readme/img/Group 7.jpg)
+
 
 ## 노트북 실행 전 준비 사항
 
