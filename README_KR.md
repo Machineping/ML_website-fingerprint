@@ -7,19 +7,19 @@
 - **RAM:** 12GB (훈련 중 최대 8GB 사용)
 - **CPU:** Intel(R) Xeon(R) CPU @ 2.30GHz (Dual-Core)
 - **DISK:** 107GB
-
+<br><br>
 ## 노트북 실행 방법
 
 #### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다.
-
    <img src="ML_website-fingerprint/readme/img/Group 3.jpg" alt="구글 코랩 열기" width="500" />
 
 #### 2. GitHub에서 노트북 불러오기
-- **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다.:
-'''https://github.com/Machineping/ML_website-fingerprint/tree/main'''
- 
+- **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다:
+  ```plaintext
+  https://github.com/Machineping/ML_website-fingerprint/tree/main'''
+  
  <img src="ML_website-fingerprint/readme/img/Group 6.jpg" alt="GitHub에서 노트북 불러오기" width="500" />
 
 
@@ -32,7 +32,7 @@
 
 ![open](readme/img/Group 7.jpg)
 
-
+<br><br>
 ## 노트북 실행 전 준비 사항
 
 #### 학습 데이터 준비
