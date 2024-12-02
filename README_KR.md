@@ -1,8 +1,8 @@
-# ML Website Fingerprint Fine-Tuning 프로젝트
+# ML Website Fingerprint Fine-Tuning
 
 **구글 코랩 환경**에서 실행하는 것을 권장합니다.
 
-## 권장 구글 코랩 환경
+### 권장 구글 코랩 환경
 
 - **RAM:** 12GB (훈련 중 최대 8GB 사용)
 - **CPU:** Intel(R) Xeon(R) CPU @ 2.30GHz (Dual-Core)
@@ -11,7 +11,7 @@
 ## 노트북 실행 방법
 
 ### 1. 구글 코랩 열기
-- [Google Colab](https://colab.research.google.com/)으로 이동합니다.
+- [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다.
 
    <img src="ML_website-fingerprint/readme/img/Group 3.jpg" alt="구글 코랩 열기" width="500" />
