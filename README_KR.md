@@ -13,12 +13,13 @@
 #### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다.
-   <img src="ML_website-fingerprint/readme/img/Group 3.jpg" alt="구글 코랩 열기" width="500" />
+  ![First Image](readme/img/Group 3.jpg)
+
 
 #### 2. GitHub에서 노트북 불러오기
 - **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다:
   ```plaintext
-  https://github.com/Machineping/ML_website-fingerprint/tree/main'''
+  https://github.com/Machineping/ML_website-fingerprint/tree/main
   
  <img src="ML_website-fingerprint/readme/img/Group 6.jpg" alt="GitHub에서 노트북 불러오기" width="500" />
 
@@ -39,7 +40,6 @@
 
 아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.
 해당 CSV 파일이 MyDrive에 있어야 실행 가능합니다. 
-
 [https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
 
 모든 노트북은 동일하게 총 5개 목차로 구성되어 있습니다:
