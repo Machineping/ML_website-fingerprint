@@ -13,7 +13,7 @@
 #### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다.
-  ![First Image](./readme/img/Group 3.jpg)
+  ![Image1](./readme/img/Group%203.jpg)
 
 
 #### 2. GitHub에서 노트북 불러오기
@@ -21,7 +21,8 @@
   ```plaintext
   https://github.com/Machineping/ML_website-fingerprint/tree/main
   
- <img src="ML_website-fingerprint/readme/img/Group 6.jpg" alt="GitHub에서 노트북 불러오기" width="500" />
+![Image2](readme/img/Group%206.jpg)
+
 
 
 #### 3. 필요한 노트북 파일 열기
@@ -31,7 +32,7 @@
 - **open-world/binary/Random Forest.ipynb**
 - **open-world/multiclass/Random Forest.ipynb**
 
-![open](./readme/img/Group 7.jpg)
+![Image3](./readme/img/Group%207.jpg)
 
 <br><br>
 ## 노트북 실행 전 준비 사항
