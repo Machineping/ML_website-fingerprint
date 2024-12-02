@@ -7,8 +7,8 @@
 - **RAM:** 12GB (훈련 중 최대 8GB 사용)
 - **CPU:** Intel(R) Xeon(R) CPU @ 2.30GHz (Dual-Core)
 - **DISK:** 107GB
-<br><br>
-## 노트북 실행 방법
+<br><br><br>
+## 실행 가이드
 
 #### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
@@ -34,14 +34,14 @@
 
 ![Image3](./readme/img/Group%207.jpg)
 
-<br><br>
-## 노트북 실행 전 준비 사항
-
-#### 학습 데이터 준비
+#### 4. 학습 데이터 준비
 
 아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.
 해당 CSV 파일이 MyDrive에 있어야 실행 가능합니다. 
 [https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+
+### 5. Mount Google Drive
+**Mount Google Drive** 셀을 실행하여 csv 파일이 있는 구글 드라이브로 연결합니다. 
 
 모든 노트북은 동일하게 총 5개 목차로 구성되어 있습니다:
 1. **Mount Google Drive**
@@ -51,9 +51,6 @@
 5. **2. Fine-Tuning**
 
  *(목차 그림 이미지 삽입 예정)*
-
-### 1. Mount Google Drive
-**Mount Google Drive** 셀을 실행하여 csv 파일이 있는 구글 드라이브로 연결합니다. 
 
 ### 2. CSV 파일 경로 설정
 **CSV file path setup** 셀을 실행하기 전에 **CSV 파일 경로**를 지정해주세요. 
