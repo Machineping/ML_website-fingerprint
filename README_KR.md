@@ -18,7 +18,7 @@
 
 ### 2. GitHub에서 노트북 불러오기
 - **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다.:
-[GitHub](https://github.com/Machineping/ML_website-fingerprint/tree/main)
+'''https://github.com/Machineping/ML_website-fingerprint/tree/main'''
  
  <img src="ML_website-fingerprint/readme/img/Group 6.jpg" alt="GitHub에서 노트북 불러오기" width="500" />
 
@@ -39,9 +39,9 @@
 아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.
 해당 CSV 파일이 MyDrive에 있어야 실행 가능합니다. 
 
-[학습 데이터 구글 드라이브 링크](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
 
-## 노트북 구조
+### 노트북 구조
 모든 노트북은 동일하게 총 5개 목차로 구성되어 있습니다:
 - Mount Google Drive
 - CSV 파일 경로 설정
