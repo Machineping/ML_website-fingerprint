@@ -34,11 +34,13 @@
 
  <img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
 <br><br>
+
 ### 4. 학습 데이터 준비
 
 아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.
 해당 CSV 파일이 MyDrive에 있어야 실행 가능합니다. 
 [https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+
 <br><br>
 ### 5. Mount Google Drive
 **Mount Google Drive** 셀을 실행하여 csv 파일이 있는 구글 드라이브로 연결합니다. 
@@ -51,6 +53,7 @@
 5. **2. Fine-Tuning**
 
  *(목차 그림 이미지 삽입 예정)*
+
 <br><br>
 ### 6. CSV 파일 경로 설정
 **CSV file path setup** 셀을 실행하기 전에 **CSV 파일 경로**를 지정해주세요. 
