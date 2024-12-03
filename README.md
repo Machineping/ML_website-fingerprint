@@ -43,7 +43,7 @@
 
 <br><br>
 ### 5. Mount Google Drive
-**Mount Google Drive** 셀을 실행하여 csv 파일이 있는 구글 드라이브로 연결합니다. 
+목차 중 먼저 **Mount Google Drive** 셀을 실행하여 csv 파일이 있는 구글 드라이브로 연결합니다. 
 
 모든 노트북은 동일하게 총 5개 목차로 구성되어 있습니다:
 1. **Mount Google Drive**
@@ -56,6 +56,79 @@
 
 <br><br>
 ### 6. CSV 파일 경로 설정
-**CSV file path setup** 셀을 실행하기 전에 **CSV 파일 경로**를 지정해주세요. 
+**CSV file path setup** 셀을 실행하기 전에 꼭 **CSV 파일 경로**를 지정해주세요. 
 
 <img src="readme/img/image9.png" alt="Image" width="300"/>
+
+
+<br><br><br><br>
+
+# ML Website Fingerprint Fine-Tuning
+
+It is recommended to run this in the Google Colab environment.
+
+#### Recommended Google Colab Environment
+
+- **RAM:** 12GB (up to 8GB used during training)
+- **CPU:** Intel(R) Xeon(R) CPU @ 2.30GHz (Dual-Core)
+- **DISK:** 107GB
+
+<br><br><br><br>
+
+## Execution Guide
+
+### 1. Open Google Colab
+- Go to [https://colab.research.google.com/](https://colab.research.google.com/).
+- Click on **File** -> **Open Notebook**.
+  <br>
+  <img src="readme/img/Group%203.jpg" alt="Image" width="300"/>
+
+<br><br>
+
+### 2. Load Notebook from GitHub
+- In **Open Notebook**, click the **GitHub** tab and enter the following GitHub URL:
+  ```plaintext
+  https://github.com/Machineping/ML_website-fingerprint/tree/main
+  ```
+
+  <img src="readme/img/Group%206.jpg" alt="Image" width="300"/>
+
+<br><br>
+
+### 3. Open the Required Notebook Files
+Select the notebook file you want to run:
+
+- **closed-world/Random Forest.ipynb**
+- **open-world/binary/Random Forest.ipynb**
+- **open-world/multiclass/Random Forest.ipynb**
+
+  <img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
+
+<br><br>
+
+### 4. Prepare the Training Data
+Download or upload the training data to your **MyDrive** using the link below.  
+Make sure the required CSV files are present in **MyDrive** before running the notebook.
+
+[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+
+<br><br>
+
+### 5. Mount Google Drive
+First, execute the **Mount Google Drive** cell from the table of contents to connect to the Google Drive containing the CSV file.
+
+All notebooks are structured with the following five sections:
+1. **Mount Google Drive**
+2. **CSV file path setup**
+3. **Data preprocessing**
+4. **1. Before Fine-Tuning**
+5. **2. Fine-Tuning**
+
+  <img src="readme/img/image8.png" alt="Image" width="300"/>
+
+<br><br>
+
+### 6. Set the CSV File Path
+Before running the **CSV file path setup** cell, ensure the **CSV file path** is specified correctly.
+
+  <img src="readme/img/image9.png" alt="Image" width="300"/>
