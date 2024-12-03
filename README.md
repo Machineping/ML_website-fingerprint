@@ -6,7 +6,6 @@
 
 - **RAM:** 12GB (훈련 중 최대 8GB 사용)
 - **CPU:** Intel(R) Xeon(R) CPU @ 2.30GHz (Dual-Core)
-- **DISK:** 107GB
 <br><br><br><br>
 ## 실행 가이드
 
