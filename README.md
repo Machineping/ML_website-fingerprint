@@ -16,7 +16,7 @@
 
 <br><br>
 ### 2. GitHub에서 노트북 불러오기
-- **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다:
+- **노트 열기** 에서 **GitHub** 탭을 클릭하고 아래 깃허브 주소를 입력합니다
   ```plaintext
   https://github.com/Machineping/ML_website-fingerprint/tree/main
 
@@ -24,7 +24,7 @@
 
 <br><br>
 ### 3. 필요한 노트북 파일 열기
-실행할 노트북 파일을 선택하면 됩니다:
+실행할 노트북 파일을 선택하면 됩니다
 
 - **closed-world/Random Forest.ipynb**
 - **open-world/binary/Random Forest.ipynb**
@@ -36,7 +36,7 @@
 
 ### 4. 학습 데이터 준비
 
-아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.
+아래 링크를 통해 학습 데이터를 다운로드 혹은 MyDrive에 업로드 해주세요.<br>
 해당 CSV 파일이 MyDrive에 있어야 실행 가능합니다. 
 [https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
 
@@ -85,7 +85,7 @@ It is recommended to run this in the Google Colab environment.
 <br><br>
 
 ### 2. Load Notebook from GitHub
-- In **Open Notebook**, click the **GitHub** tab and enter the following GitHub URL:
+- In **Open Notebook**, click the **GitHub** tab and enter the following GitHub URL
   ```plaintext
   https://github.com/Machineping/ML_website-fingerprint/tree/main
   ```
@@ -95,7 +95,7 @@ It is recommended to run this in the Google Colab environment.
 <br><br>
 
 ### 3. Open the Required Notebook Files
-Select the notebook file you want to run:
+Select the notebook file you want to run
 
 - **closed-world/Random Forest.ipynb**
 - **open-world/binary/Random Forest.ipynb**
@@ -106,7 +106,7 @@ Select the notebook file you want to run:
 <br><br>
 
 ### 4. Prepare the Training Data
-Download or upload the training data to your **MyDrive** using the link below.  
+Download or upload the training data to your **MyDrive** using the link below. <br>
 Make sure the required CSV files are present in **MyDrive** before running the notebook.
 
 [https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
@@ -116,7 +116,7 @@ Make sure the required CSV files are present in **MyDrive** before running the n
 ### 5. Mount Google Drive
 First, execute the **Mount Google Drive** cell from the table of contents to connect to the Google Drive containing the CSV file.
 
-All notebooks are structured with the following five sections:
+All notebooks are structured with the following five sections
 1. **Mount Google Drive**
 2. **CSV file path setup**
 3. **Data preprocessing**
