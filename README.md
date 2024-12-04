@@ -44,7 +44,7 @@
 - **extra_mon_label.csv**
 - **extra_mon_23.csv**
 
-[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+[[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=sharing)]
 
 <br><br>
 ### 5. Mount Google Drive
@@ -114,7 +114,7 @@ Select the notebook file you want to run.
 Download or upload the training data to your **MyDrive** using the link below. <br>
 Make sure the required CSV files are present in **MyDrive** before running the notebook.
 
-[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link)
+[[https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=drive_link](https://drive.google.com/drive/folders/1jgDdRLgU2XikmnQQt87z6tyUKF3U88TR?usp=sharing)]
 
 <br><br>
 
