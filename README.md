@@ -12,7 +12,7 @@
 ### 1. 구글 코랩 열기
 - [https://colab.research.google.com/](https://colab.research.google.com/)으로 이동합니다.
 - **파일** -> **노트 열기**를 클릭합니다. <br>
-  <img src="readme/img/Group%203.jpg" alt="Image" width="300"/>
+<img src="readme/img/Group%203.jpg" alt="Image" width="300"/>
 
 <br><br>
 ### 2. GitHub에서 노트북 불러오기
@@ -20,7 +20,7 @@
   ```plaintext
   https://github.com/Machineping/ML_website-fingerprint/tree/main
 
-  <img src="readme/img/Group%206.jpg" alt="Image" width="300"/>
+<img src="readme/img/Group%206.jpg" alt="Image" width="300"/>
 
 <br><br>
 ### 3. 필요한 노트북 파일 열기
@@ -30,7 +30,7 @@
 - **open-world/binary/Random Forest.ipynb**
 - **open-world/multiclass/Random Forest.ipynb**
 - **extra_credit/extra_MLP.ipynb**
-  <img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
+<img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
 <br><br>
 
 ### 4. 학습 데이터 준비
@@ -106,7 +106,7 @@ Select the notebook file you want to run.
 - **open-world/binary/Random Forest.ipynb**
 - **open-world/multiclass/Random Forest.ipynb**
 - **extra_credit/extra_MLP.ipynb**
-  <img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
+<img src="readme/img/Group%207.jpg" alt="Image" width="300"/>
 
 <br><br>
 
@@ -126,11 +126,11 @@ All notebooks are structured with the following five sections
 - **Data preprocessing**
 - **1. Before Fine-Tuning**
 - **2. Fine-Tuning**
-  <img src="readme/img/image8.png" alt="Image" width="300"/>
+<img src="readme/img/image8.png" alt="Image" width="300"/>
 
 <br><br>
 
 ### 6. Set the CSV File Path
 Before running the **CSV file path setup** cell, ensure the **CSV file path** is specified correctly.
 
-  <img src="readme/img/image9.png" alt="Image" width="500"/>
+<img src="readme/img/image9.png" alt="Image" width="500"/>
